@@ -1,2 +1,1 @@
-# Anscombe Quartet
- 
+# Theory-of-Computation
